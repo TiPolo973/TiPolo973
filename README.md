@@ -20,7 +20,7 @@ I'm a passionate developer with a strong interest in building robust, scalable w
 - **Other**: Git, Agile Scrum, Visual Studio Code, Windows OS
 
 ### 📫 How to reach me
-- Email: paul.jacotin@example.com
+- Email: Coming soon
 - LinkedIn: [Paul Jacotin](https://www.linkedin.com/in/paul-jacotin-8503a7255/)
 - GitHub: [TiPolo973](https://github.com/TiPolo973)
 
@@ -28,5 +28,3 @@ I'm a passionate developer with a strong interest in building robust, scalable w
 - I'm constantly looking for ways to optimize and improve my code. Recently, I've been exploring the distinctions between GET and POST methods for efficient data handling, and I enjoy learning from feedback to improve my implementations.
   
 Feel free to reach out if you’re interested in collaboration or just want to connect!
-
--->
